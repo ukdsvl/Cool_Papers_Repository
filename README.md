@@ -84,4 +84,9 @@
 - GrabCut
   [[Link]](https://docs.opencv.org/3.4/d8/d83/tutorial_py_grabcut.html)
   
+- On Triplet Mining in deep embedding learning
+  [[Blog]](https://omoindrot.github.io/triplet-loss#a-better-implementation-with-online-triplet-mining) 
+  
+- Online Pair/ Triplet mining for Contrastive/ Triplet Loss
+  [[Link]](https://github.com/ukdsvl/siamese-triplet)
   
